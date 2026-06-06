@@ -1,6 +1,6 @@
 # [<img src="https://static.wikia.nocookie.net/virtualyoutuber/images/9/95/Usada_Pekora_-_Portrait.png/revision/latest?cb=20220729230439" width="40" align="left" alt="Pekocord">](https://github.com/hdhw/Pekocord) Pekocord
 
-Pekocord is a fork of [Equicord](https://github.com/Equicord/Equicord), with more plugins..?
+Pekocord is a fork of [Equicord](https://github.com/Equicord/Equicord), with more plugins..? (note: This project is not finished, So this read me wont be either. :( )
 
 ### Included Plugins
 
