@@ -2,8 +2,6 @@
 
 Pekocord is a fork of [Equicord](https://github.com/Equicord/Equicord), with more plugins..?
 
-You can join our [Discord server](https://equicord.org/discord) for commits, changes, chatting, or even support.
-
 ### Included Plugins
 
 Our included plugins can be found [here](https://equicord.org/plugins).
