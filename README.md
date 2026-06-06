@@ -1,7 +1,4 @@
-# [<img src="./browser/icon.png" width="40" align="left" alt="Equicord">](https://github.com/Equicord/Equicord) Equicord
-
-[![Equibop](https://static.wikia.nocookie.net/virtualyoutuber/images/9/95/Usada_Pekora_-_Portrait.png/revision/latest?cb=20220729230439)](https://github.com/Equicord/Equibop)
-[![Tests](https://github.com/Equicord/Equicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Equicord/Equicord/actions/workflows/test.yml)
+# [<img src="https://static.wikia.nocookie.net/virtualyoutuber/images/9/95/Usada_Pekora_-_Portrait.png/revision/latest?cb=20220729230439" width="40" align="left" alt="Equicord">](https://github.com/Equicord/Equicord) Equicord
 
 Pekocord is a fork of [Equicord](https://github.com/Equicord/Equicord), with more plugins..?
 
